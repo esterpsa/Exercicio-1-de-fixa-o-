@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\Exercicio-1-de-fixa-o-\bin\Debug\netcoreapp3.1\Exercicio-1-de-fixa-o-.exe
+C:\Users\ACER\Desktop\Exercicio-1-de-fixa-o-\bin\Debug\netcoreapp3.1\Exercicio-1-de-fixa-o-.deps.json
+C:\Users\ACER\Desktop\Exercicio-1-de-fixa-o-\bin\Debug\netcoreapp3.1\Exercicio-1-de-fixa-o-.runtimeconfig.json
+C:\Users\ACER\Desktop\Exercicio-1-de-fixa-o-\bin\Debug\netcoreapp3.1\Exercicio-1-de-fixa-o-.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Exercicio-1-de-fixa-o-\bin\Debug\netcoreapp3.1\Exercicio-1-de-fixa-o-.dll
+C:\Users\ACER\Desktop\Exercicio-1-de-fixa-o-\bin\Debug\netcoreapp3.1\Exercicio-1-de-fixa-o-.pdb
+C:\Users\ACER\Desktop\Exercicio-1-de-fixa-o-\obj\Debug\netcoreapp3.1\Exercicio-1-de-fixa-o-.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Exercicio-1-de-fixa-o-\obj\Debug\netcoreapp3.1\Exercicio-1-de-fixa-o-.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Exercicio-1-de-fixa-o-\obj\Debug\netcoreapp3.1\Exercicio-1-de-fixa-o-.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Exercicio-1-de-fixa-o-\obj\Debug\netcoreapp3.1\Exercicio-1-de-fixa-o-.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Exercicio-1-de-fixa-o-\obj\Debug\netcoreapp3.1\Exercicio-1-de-fixa-o-.dll
+C:\Users\ACER\Desktop\Exercicio-1-de-fixa-o-\obj\Debug\netcoreapp3.1\Exercicio-1-de-fixa-o-.pdb
+C:\Users\ACER\Desktop\Exercicio-1-de-fixa-o-\obj\Debug\netcoreapp3.1\Exercicio-1-de-fixa-o-.genruntimeconfig.cache
